@@ -1,0 +1,5 @@
+For: es un bucle que nos permite realizar una operación de manera sencilla sin tener que escribir tantas veces como sea necesario un código. Entonces si necesitamos incrementar un valor de adicionando 1, lo podemos hacer con for.
+
+&&: es un operadar que establece una condición entre dos variales. De esta forma si la variable a y la variable cumplen tal condición arroja un resultado x.
+||: a diferencia de && si una de las variables cumple con tal condición arroja el resultado solicitado.
+!: indica una negación: Por ejemplo != quiere decier no es igual, o !+ no es positivo.

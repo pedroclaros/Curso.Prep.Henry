@@ -1,0 +1,12 @@
+Variable: es una forma de guardar algo para usar mas tarde.
+
+Stings: es texto literal. Un nombre por ejemplo.
+
+Funciones: sirven para no escribir código de forma repetida. Agrupa y guarda una instrucción que podemos invocar en cualquier momento.
+Argumento: son valores que se pasan a la función.
+Return:arroja un resultado determinado.
+
+Declaraciones if: son condiciones.
+
+Valores Booleanos: indica que la función solo puede arrojar dos resultados: True or False.
+
