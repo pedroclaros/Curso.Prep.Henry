@@ -1,0 +1,14 @@
+Objetos: los objetos tienen mucha información de un sola cosa. Es una colección de propiedades. Casi todo en javascript es un objeto.
+
+Propiedades: es la ascociación entre un nombre (clave) y un valor.
+
+Métodos: las coasas que pueden hacer los objetos se llaman métodos.Sirve para hacer acciones (como una ventana emergente, modificar las propiedades de un objeto, añadir elementos a 
+una lista, etc.
+Ejemplo: gato objeto; puede maullar es un método. Los paréntesis indican que nos referimos a un método.
+
+Bucle 'for in': Los objetos no contienen índices numéricos, por lo que el bucle estándar no funcionará para los objetos. Javascript tiene un segundo tipo de bucle 'for in'.
+Entonces si tenemos un objeto ejemplo: lista de alumnos, edad, aula, etc. Podemos trabajar con esos datos sin preocuparnos por su orden.
+
+Notación de puntos vs. notación de corchetes: ambos sirven para acceder a los valores.
+Notación de puntos: accede al valor por un .y nombre de la clave.
+notación de corchetes: accede al valor colocando en [] una cadena o número, o una variable que haga referencia a una cadena o número. Se puede llamar a cada clave usando ''.
