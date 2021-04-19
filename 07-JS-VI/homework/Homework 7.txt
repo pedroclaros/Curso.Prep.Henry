@@ -1,0 +1,1 @@
+Callback: pasa una función como argumento a otra función. Cb. Es una first class function.
