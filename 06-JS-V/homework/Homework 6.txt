@@ -1,0 +1,5 @@
+Prototype: son mecanismos mediante los cuales los objetos heredan características entre si.
+
+Constructor o class: cuando se crea un objeto muchas veces se crea una plantilla, el constructor nos permite copiar la plantilla de un objeto una y otra vez. El constructor o clase (class)
+nos permite crear muchos objetos que comparten las mismas propiedades y métodos. Una clase es una plantilla para creación de objetos según un modelo predefinido. Las clases se usan para
+representar entidades o conceptos. Ejemplo: clase: prototipo de un auto, objeto son autos de diferente color.
